@@ -1,0 +1,31 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: url(../img/fondo.jpg);
+
+}
+
+h1{
+	background-color: #006a5c;
+	text-align: center;
+	color: white;
+	font-size: 100px;
+
+}
+
+form{
+	width: 600px;
+	height: 300px;
+	position: relative;
+	left: 35%;
+	background-color: #006a5c;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
